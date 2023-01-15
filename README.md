@@ -30,7 +30,7 @@ git clone https://github.com/DerRobert-28/ScaryMazeVignette.git
 
 * Download the ZIP file of the master branch to your PC.
 * Copy the folder inside the ZIP file into your Minecraft data folder (see above).
-* **IMPORTANT :** If you just copy the ZIP file itself into your Minecraft data folder, it will **NOT** work.
+* **IMPORTANT:** If you just copy the ZIP file itself into your Minecraft data folder, it will **NOT** work.
 
 <br>
 
