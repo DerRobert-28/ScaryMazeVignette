@@ -41,4 +41,4 @@ git clone https://github.com/DerRobert-28/ScaryMazeVignette.git
 <br>
 <br>
 
-*© 2023 by Der Robert*
+*&copy; 2023 by Der Robert*
